@@ -1,5 +1,6 @@
-# R (data-table) plug-in for Javascript
-R (data-table) is most efficient table plug-in for JavaScript. It enhance table feature like paging, sorting, filtering, download table data(MS word/excel format), print data etc. disable feature also available with this plug-in. The main goal of R(data-table) is to enhance flexibility of data in html tables.
+# R (data-table) plug-in for Javascript 
+
+<img src="https://coders-destination.blogspot.com/favicon.ico"> R (data-table) is most efficient table plug-in for JavaScript. It enhance table feature like paging, sorting, filtering, download table data(MS word/excel format), print data etc. disable feature also available with this plug-in. The main goal of R(data-table) is to enhance flexibility of data in html tables.
 
 
 __R(data-table) is developed with two distinct groups of users in mind:__
