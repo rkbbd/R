@@ -13,7 +13,7 @@ For those using the interface DataTables presents, actions to get the most from 
 
 ## Installation
 We suggest all to include this plug-in after loading Dom.\
-CDN [Link](https:///).
+CDN [Link](https://cdn.statically.io/gh/rkbbd/R/master/Full%20DataTable/DataTable.js).
 
 
 
